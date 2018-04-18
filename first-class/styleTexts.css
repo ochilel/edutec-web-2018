@@ -1,0 +1,15 @@
+.paragraph-red {
+    color: red;
+}
+
+.paragraph-yellow {
+    color: yellow;
+}
+
+.h1-shadow {
+    text-shadow: 2px 2px red;
+}
+
+.footer-center {
+    text-align: center;
+}
